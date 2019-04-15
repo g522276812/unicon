@@ -12,8 +12,9 @@
     "react-swipeable-views-utils": "0.13.1"
   },
   "scripts": {
-
+    "start": "node server.js"
   },
+  "main": "server.js",
   "eslintConfig": {
     "extends": "react-app"
   },
